@@ -1180,7 +1180,7 @@ a:active{
 /* ----------Introduccion---------------------------- */
 
 .video-introduccion {
-    background: url('imagenes/avion.jpg') no-repeat;
+    background: url('imagenes/avion.webp') no-repeat;
 }
 
 .fullscreen {
@@ -1201,7 +1201,7 @@ a:active{
 }
 
 .contenido-video-introduccion {
-    width:400px;
+    width: 400px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
